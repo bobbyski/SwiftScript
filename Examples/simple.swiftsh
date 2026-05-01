@@ -1,0 +1,3 @@
+# Example SimpleShell script.
+ls Examples
+echo hello-from-path
